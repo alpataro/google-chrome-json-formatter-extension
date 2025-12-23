@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "ALPATARO's JSON Formatter",
+  "version": "1.0",
+  "description": "Formats JSON in the browser",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
