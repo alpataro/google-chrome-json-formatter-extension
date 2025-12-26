@@ -1,7 +1,7 @@
 # Privacy Policy  
 **ALPATARO's JSON Formatter**
 
-Last updated: 2025-01-XX
+Last updated: 2025-12-25
 
 ---
 
