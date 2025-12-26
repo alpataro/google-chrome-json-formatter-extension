@@ -1,5 +1,9 @@
 # ALPATARO's JSON Formatter
 
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue?logo=googlechrome)
+![Open Source](https://img.shields.io/badge/Open%20Source-MIT-green)
+![Privacy Friendly](https://img.shields.io/badge/Privacy-Local%20Only-brightgreen)
+
 ALPATARO's JSON Formatter automatically formats raw JSON responses into a clean, readable, and syntax-highlighted view directly in your browser.
 
 It is designed for developers, engineers, and anyone who frequently works with JSON APIs or raw JSON responses.
@@ -29,6 +33,8 @@ All formatting happens **locally in your browser**.
 ---
 
 ## 🔐 Privacy & Security
+
+![No Tracking](https://img.shields.io/badge/No%20Tracking-Guaranteed-success)
 
 Privacy-first by design:
 
