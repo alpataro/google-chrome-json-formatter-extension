@@ -1,8 +1,13 @@
 {
   "manifest_version": 3,
   "name": "ALPATARO's JSON Formatter",
-  "version": "1.0",
-  "description": "Formats JSON in the browser",
+  "version": "1.0.3",
+  "description": "Formats raw JSON responses into a readable, syntax-highlighted view directly in the browser.",
+  "icons": {
+  "16": "icon16.png",
+  "48": "icon48.png",
+  "128": "icon128.png"
+  },
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
